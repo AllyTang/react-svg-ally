@@ -2,10 +2,11 @@ This project is hosted on https://allytang.github.io/react-svg-ally/ .
 
 ## Instruction
 
-Type commands in textarea then get the output.
-command example:
-p 200,10 250,190 160,210 (polygon)
-c 125 125 125 (circle)
+Type commands in textarea then get the output.<br />
+
+command example <br />
+p 200,10 250,190 160,210 (polygon) <br />
+c 125 125 125 (circle)<br />
 r 100 50 120 120 (rectangle)
 
 ### Available Scripts
