@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-svg-ally/static/css/main.bc43ee4c.chunk.css",
+    "main.js": "/react-svg-ally/static/js/main.4f067bd7.chunk.js",
+    "main.js.map": "/react-svg-ally/static/js/main.4f067bd7.chunk.js.map",
+    "runtime-main.js": "/react-svg-ally/static/js/runtime-main.2f4682f3.js",
+    "runtime-main.js.map": "/react-svg-ally/static/js/runtime-main.2f4682f3.js.map",
+    "static/js/2.397ad4a0.chunk.js": "/react-svg-ally/static/js/2.397ad4a0.chunk.js",
+    "static/js/2.397ad4a0.chunk.js.map": "/react-svg-ally/static/js/2.397ad4a0.chunk.js.map",
+    "index.html": "/react-svg-ally/index.html",
+    "precache-manifest.03498bf81a38a6f2025abad833e1a9a7.js": "/react-svg-ally/precache-manifest.03498bf81a38a6f2025abad833e1a9a7.js",
+    "service-worker.js": "/react-svg-ally/service-worker.js",
+    "static/css/main.bc43ee4c.chunk.css.map": "/react-svg-ally/static/css/main.bc43ee4c.chunk.css.map",
+    "static/js/2.397ad4a0.chunk.js.LICENSE.txt": "/react-svg-ally/static/js/2.397ad4a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f4682f3.js",
+    "static/js/2.397ad4a0.chunk.js",
+    "static/css/main.bc43ee4c.chunk.css",
+    "static/js/main.4f067bd7.chunk.js"
+  ]
+}
