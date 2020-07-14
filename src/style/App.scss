@@ -1,3 +1,4 @@
+$themeColor: #4caf50;
 .container {
   display: flex;
   flex-direction: column;
@@ -5,8 +6,7 @@
 }
 .shapes {
   margin-top: 100px;
-  margin-left: 20px;
-  border: 1px solid #4caf50;
+  border: 1px solid $themeColor;
 }
 .form {
   margin-top: 100px;
@@ -15,7 +15,7 @@
   align-items: center;
 }
 label {
-  color: #4caf50;
+  color: $themeColor;
   font-size: 20px;
   font-weight: bold;
 }
@@ -34,8 +34,8 @@ label {
   height: 80px;
   font-family: Sans-Serif;
   margin-top: 30px;
-  background-color: #4caf50;
-  border: 3px solid #4caf50;
+  background-color: $themeColor;
+  border: 3px solid $themeColor;
   color: white;
   text-transform: uppercase;
   height: auto;
